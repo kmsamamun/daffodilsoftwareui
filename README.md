@@ -1,5 +1,5 @@
 # daffodilsoftwareui
-Modern Website UI concept for Daffodil Software Limited
+Modern Website UI concept for Daffodil Software Limited.
 **Website Overview**
 The DSL website is a high-performance, visually immersive corporate portfolio designed to position the company as a premier leader in enterprise software, AI, and digital transformation. It leverages modern web technologies (React, TypeScript, Tailwind CSS, Framer Motion) to deliver a sleek, "glassmorphism" aesthetic with seamless dark/light mode switching.
 **Key Features & Architecture**
